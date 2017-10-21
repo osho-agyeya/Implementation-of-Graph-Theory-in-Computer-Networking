@@ -1,0 +1,19 @@
+   ****** Beginning of mfile2sci() session ******
+   File to convert: C:/Users/Osho Agyeya/Desktop/dijkstra.m
+   Result file path: C:/Users/Osho Agyeya/Documents/
+   Recursive mode: OFF
+   Only double values used in M-file: NO
+   Verbose mode: 3
+   Generate formated code: NO
+   M-file reading...
+   M-file reading: Done
+   Syntax modification...
+   Syntax modification: Done
+   Macro to tree conversion...
+   Conversion of M-tree...
+   L.56: No simple equivalent, so mtlb_fprintf() is called.
+   L.58: No simple equivalent, so mtlb_fprintf() is called.
+   L.59: No simple equivalent, so mtlb_fprintf() is called.
+   Conversion of M-tree: Done
+   Macro to tree conversion: Done
+   ****** End of mfile2sci() session ******
